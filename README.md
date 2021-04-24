@@ -33,6 +33,6 @@ As of 4/23/21, there were 120 home wins, 75 draws and 126 away wins totaling to 
 
 126 * 1.1838 = 149 Projected Away Wins
 
-The data
+The .csv file can be found as Soccer.csv within this github repository
 
 ### Visualizations
